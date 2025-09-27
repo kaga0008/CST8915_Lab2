@@ -1,6 +1,8 @@
 # CST8915 Lab 1
 ## Elizabeth Kaganovsky (040956095)
 
+### Video Demo: https://youtu.be/NTSfl1J_mXg
+
 Order_service repo: https://github.com/kaga0008/CST8915_Lab2_order-service
 Product_service repo: https://github.com/kaga0008/CST8915_Lab2_product-service
 Store_front repo: https://github.com/kaga0008/CST8915_Lab2_store-front
