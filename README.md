@@ -3,9 +3,9 @@
 
 ### Video Demo: https://youtu.be/NTSfl1J_mXg
 
-Order_service repo: https://github.com/kaga0008/CST8915_Lab2_order-service
-Product_service repo: https://github.com/kaga0008/CST8915_Lab2_product-service
-Store_front repo: https://github.com/kaga0008/CST8915_Lab2_store-front
+Order_service repo: https://github.com/kaga0008/CST8915_Lab2_order-service<br>
+Product_service repo: https://github.com/kaga0008/CST8915_Lab2_product-service<br>
+Store_front repo: https://github.com/kaga0008/CST8915_Lab2_store-front<br>
 
 ### What changes did you make to the order-service and product-service to comply with the Configurations and Backing Services factors of the 12-Factor App methodology?
 - To order_service:
